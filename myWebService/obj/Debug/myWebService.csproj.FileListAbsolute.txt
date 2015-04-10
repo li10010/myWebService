@@ -1,0 +1,5 @@
+c:\users\wxlhy\documents\visual studio 2012\Projects\myWebService\myWebService\bin\myWebService.dll
+c:\users\wxlhy\documents\visual studio 2012\Projects\myWebService\myWebService\bin\myWebService.pdb
+c:\users\wxlhy\documents\visual studio 2012\Projects\myWebService\myWebService\obj\Debug\myWebService.csprojResolveAssemblyReference.cache
+c:\users\wxlhy\documents\visual studio 2012\Projects\myWebService\myWebService\obj\Debug\myWebService.dll
+c:\users\wxlhy\documents\visual studio 2012\Projects\myWebService\myWebService\obj\Debug\myWebService.pdb
